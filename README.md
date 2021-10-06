@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jackie-Senosha
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on multiple Projecgt
+- 💞️ I’m looking to collaborate on multiple Projects
 - 📫 How to reach me ...
 
 <!---
